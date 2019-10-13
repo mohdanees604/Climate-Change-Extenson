@@ -1,6 +1,6 @@
 ## Garfield Extension for Firefox
 
-Taken inspiration from bogoblin (Creator of this extension) to come up with this project  
+Taken inspiration from bogoblin (Creator of this extension) to come up with this Climate-change-extension project  
 
 
 ## Compilation instructions
